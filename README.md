@@ -1,10 +1,12 @@
 # Craftscape HK (藝守) – Project Story
 
 ## Inspiration  
-Hong Kong’s traditional crafts—such as **hand-carved mahjong tiles, painted pottery, sugar-blowing, and bamboo weaving**—are fading due to shrinking markets and an aging artisan community. We wanted to build a bridge between the past and the future, enabling young people and global visitors to not only appreciate but also interact with these disappearing arts.  
+Hong Kong’s traditional crafts—such as **hand-carved mahjong tiles, painted porcelain, cheongsam, and neon sign**—are fading due to shrinking markets and an aging artisan community. 
+**More than 70%** of craft shops have shut in recent years as demand wanes and rents spike, typical **revenues have fallen 30–50%** amid mass-produced competition, and **80% of artisans** say their children won’t continue the trade because of long hours, low pay, and little recognition. 
+We wanted to build a bridge between the past and the future, enabling young people and global visitors to not only appreciate but also interact with these disappearing arts, and translating the appreciation into tangible support. **Because the most meaningful way to preserve a craft is to create a thriving economy around it.**
 
 ## What it does  
-Craftscape HK is an **AI + AR cultural lifestyle platform** where users can:  
+Craftscape HK is an **AI + AR e-commerce platform** where users can:  
 - Explore craft stories through a swipe-card interface (like Tinder).  
 - Use the **AI Creation Studio** to design their own craft pieces and directly commission artisans to bring them to life.  
 - Experience **AR interactive virtual exhibitions** with 360° product views, real-world photo integration, and immersive storytelling.  
@@ -42,7 +44,6 @@ Craftscape HK is an **AI + AR cultural lifestyle platform** where users can:
 - Explore monetization pathways to ensure artisans benefit directly from sales and commissions.  
 - Scale Craftscape HK into a **global platform for cultural heritage preservation**, starting with Hong Kong but extending to other endangered crafts worldwide.
 
-
 ## Quick Start
 
 ### System Requirements
@@ -54,7 +55,7 @@ Craftscape HK is an **AI + AR cultural lifestyle platform** where users can:
 
 1. **Clone the Project**
    ```bash
-   git clone https://github.com/heilcheng/GenAI_Hackathon.git
+   git clone https://github.com/gracetyy/CraftscapeHK
    cd GenAI_Hackathon
    ```
 
@@ -123,11 +124,7 @@ cd server && npm run start:prod
 cd server && npm run seed
 ```
 
-## Deployment
+## License
+Released under the MIT License.
 
-For detailed deployment guide, please refer to [DEPLOYMENT.md](./DEPLOYMENT.md)
-
-### Production Environment Recommendations
-- **Frontend**: Vercel, Netlify
-- **Backend**: Railway, Heroku, DigitalOcean
-- **Database**: PostgreSQL, MongoDB
+🎨 Made with ❤️ for Hong Kong Traditional Crafts 🇭🇰
