@@ -105,25 +105,6 @@ Craftscape HK is an **AI + AR e-commerce platform** where users can:
    - 🌐 **Frontend**: http://localhost:3000
    - 🚀 **Backend API**: http://localhost:3001/api
 
-## 🛠️ Development Guide
-
-```bash
-# Frontend development mode
-npm run dev
-
-# Build production version
-npm run build
-
-# Start NestJS backend (development mode)
-cd server && npm run start:dev
-
-# Start NestJS backend (production mode)
-cd server && npm run start:prod
-
-# Database seeding
-cd server && npm run seed
-```
-
 ## License
 Released under the MIT License.
 
