@@ -1,5 +1,9 @@
 # Craftscape HK (藝守) – Project Story
 
+<div align="center">
+<img width="1200" height="475" alt="CraftsHK AI Banner" src="https://raw.githubusercontent.com/gracetyy/CraftscapeHK/refs/heads/main/WhatsApp%20Image%202025-09-30%20at%2023.36.41.jpeg" />
+</div>
+
 ## Inspiration  
 Hong Kong’s traditional crafts—such as **hand-carved mahjong tiles, painted porcelain, cheongsam, and neon sign**—are fading due to shrinking markets and an aging artisan community. 
 
