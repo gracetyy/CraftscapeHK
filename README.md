@@ -1,4 +1,4 @@
-# Craftscape HK (藝守) – Project Story
+# Craftscape HK (藝守)
 
 <div align="center">
 <img alt="CraftsHK AI Banner" src="https://raw.githubusercontent.com/gracetyy/CraftscapeHK/refs/heads/main/WhatsApp%20Image%202025-09-30%20at%2023.36.41.jpeg" />
