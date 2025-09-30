@@ -2,7 +2,9 @@
 
 ## Inspiration  
 Hong Kong’s traditional crafts—such as **hand-carved mahjong tiles, painted porcelain, cheongsam, and neon sign**—are fading due to shrinking markets and an aging artisan community. 
+
 **More than 70%** of craft shops have shut in recent years as demand wanes and rents spike, typical **revenues have fallen 30–50%** amid mass-produced competition, and **80% of artisans** say their children won’t continue the trade because of long hours, low pay, and little recognition. 
+
 We wanted to build a bridge between the past and the future, enabling young people and global visitors to not only appreciate but also interact with these disappearing arts, and translating the appreciation into tangible support. **Because the most meaningful way to preserve a craft is to create a thriving economy around it.**
 
 ## What it does  
