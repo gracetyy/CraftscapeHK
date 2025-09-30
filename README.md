@@ -127,4 +127,7 @@ cd server && npm run seed
 ## License
 Released under the MIT License.
 
-🎨 Made with ❤️ for Hong Kong Traditional Crafts 🇭🇰
+<div align="center">
+  <p>🎨 Made with ❤️ for Hong Kong Traditional Crafts 🇭🇰</p>
+  <p>由 Winter Club 團隊開發</p>
+</div>
